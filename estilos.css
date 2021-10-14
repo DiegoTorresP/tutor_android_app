@@ -12,8 +12,9 @@ Michel Haddad - Internetedadinero.com | 2017
   }
   header {
     text-align:center;
+    background:#000;
+    color: #fff;
     border: 1px solid #ccc;
-    background: #fafafa
   }
   a {
     color: #333;
@@ -23,10 +24,7 @@ Michel Haddad - Internetedadinero.com | 2017
     padding: 10px;
     -moz-border-radius:3px;-webkit-border-radius:3px;-o-border-radius:3px;border-radius:3px;
   }
-  header{
-    background:#000;
-    color: #fff;
-  }
+
   section {
     float: left;
     width: 70%;
